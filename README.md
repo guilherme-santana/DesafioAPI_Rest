@@ -11,4 +11,3 @@ junit 4.13
 Java 8
 ### 🧔 Responsáveis pelo projeto
 Guilherme Santana
-<div align="center"><img width="500" alt="Logo" src="https://automatizai.com.br/wp-content/uploads/2020/07/Automatizai-horizontal.png"></div>
