@@ -184,7 +184,7 @@ public class DesafioTest extends BaseTest{
 	}
 
 	@Test
-	public void Test_14_deletarCadastroPostPassandoParametroInvalido() throws IOException, Exception {
+	public void Test_15_deletarCadastroPostPassandoParametroInvalido() throws IOException, Exception {
 		given()
 		.when()
 		.delete("/posts/ttttt")
